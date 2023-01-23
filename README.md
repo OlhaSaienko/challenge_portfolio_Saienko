@@ -7,4 +7,10 @@ Good luck to each of us!
 Olha
 
 
+ #  Task 2: Selektors
+//*[@id="password"]      
+//*[@id="login"]     
+//*[@id='__next']/form/div/div[1]/a/font/font
+text.//*[text()="Remind password"]
+
  
